@@ -1,9 +1,9 @@
 
-import './App.css';
+
 
 function App() {
   return (
-    <h1> Principal</h1>
+    <h1> Página Principal</h1>
   );
 }
 
